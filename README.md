@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Go
 - 💬 Ask me about football ⚽
-- 📫 How to reach me: (twitter)[https://twitter.com/GardinerJamal]
+- 📫 How to reach me: [twitter](https://twitter.com/GardinerJamal)
 - ⚡ Fun fact: I run 3 miles a day
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Croisade&theme=github_dark)
